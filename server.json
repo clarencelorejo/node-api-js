@@ -1,0 +1,33 @@
+{
+    "Employee1": {
+      "id":1,
+      "Company Name":"NBA",
+      "Name of Employee":"Lebron",
+      "Position":"SF",
+      "Location":"Los Angeles"
+    },
+  
+    "Employee2":  {
+      "id":2,
+      "Company Name":"NBA",
+      "Name of Employee":"TATUM",
+      "Position":"PG",
+      "Location":"BOSTON CELTICS"
+    },
+  
+    "Employee3":  {
+      "id":3,
+      "Company Name":"NBA",
+      "Name of Employee":"JORDAN",
+      "Position":"C",
+      "Location":"CHICAGO"
+    },
+  
+    "Employee4": {
+      "id":4,
+      "Company Name":"NBA",
+      "Name of Employee":"KOBE",
+      "Position":"SG",
+      "Location":"SUNS"
+    }
+  }
